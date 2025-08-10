@@ -24,4 +24,4 @@ cd python_script
 chmod +x python_env.sh
 ./python_env.sh
 ```
-#### you can also create an alias at the .bashrc file and run it with just a simple command.
+#### You can also create an alias at the .bashrc file and run it with just a simple command.
