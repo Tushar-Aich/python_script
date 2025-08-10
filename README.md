@@ -21,7 +21,13 @@ This script automatically sets up a Python virtual environment in the current fo
 ```bash
 git clone https://github.com/Tushar-Aich/python_script.git
 cd python_script
+```
+### 2. Make the script executable
+```bash
 chmod +x python_env.sh
+```
+### 3. Run the script
+```bash
 ./python_env.sh
 ```
-#### You can also create an alias at the .bashrc file and run it with just a simple command.
+- You can also create an alias at the .bashrc file and run it with just a simple command.
