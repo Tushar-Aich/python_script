@@ -26,7 +26,12 @@ cd python_script
 ```bash
 chmod +x python_env.sh
 ```
-### 3. Run the script
+### 3. Create a folder
+```bash
+mkdir <folder_name>
+cd <folder_name>
+```
+### 4. Run the script
 ```bash
 ./python_env.sh
 ```
